@@ -8,4 +8,12 @@ class UserController < ApplicationController
   def hello
     # redirect_to(:controller =>'user', :action => 'index')
   end
+
+  def update
+
+  end
+
+  def destroy
+    
+  end
 end
